@@ -276,7 +276,6 @@ class BayesClassifier:
             else:
                 freqs[word]=1 
 
-
 if __name__ == "__main__":
     #uncomment the below lines once you've implemented `train` & `classify`
     b = BayesClassifier()
