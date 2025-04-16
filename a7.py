@@ -1,7 +1,7 @@
 import math, os, pickle, re
 from typing import Tuple, List, Dict
 
-
+#Made by Joshua Orellana
 class BayesClassifier:
     """A simple BayesClassifier implementation
 
